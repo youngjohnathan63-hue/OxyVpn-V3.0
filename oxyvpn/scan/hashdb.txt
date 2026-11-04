@@ -1,0 +1,4 @@
+# One entry per line: <sha256> <label words> <kind>
+# Lines starting with # are ignored. Extend this freely.
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f EICAR test file test
+24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c WannaCry dropper ransomware
